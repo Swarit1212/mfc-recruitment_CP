@@ -1,5 +1,6 @@
 The above code implements 4 type of sorting algorithms ,
 those being:
+
 1:Bubble sort-this is the most basic and brute force way to sort an array.
 in this we iterate through every element and compare it with all the next elements to see if any of them is smaller than it,
 if it is there ,we swap the place of these 2 indices.
